@@ -3,8 +3,6 @@
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 L
 lib/create_dart_library.dart,c/1/c15c542b4d7e9d12d99162e012db377d901aad62
-<
-pubspec.yaml,e/8/e8e045469170189f1d6ef12576bd01af132b1018
 E
 lib/src/customer.dart,6/b/6b21371fff8e7900c5b1a7a5ebb1e71517c41398
 :
